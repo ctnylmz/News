@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Full Stack\\Backend\\MyFinalProject\\Entities\\Entities.csproj": {}
+    "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "E:\\Full Stack\\Backend\\MyFinalProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Full Stack\\Backend\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "E:\\Full Stack\\Backend\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
-        "outputPath": "E:\\Full Stack\\Backend\\MyFinalProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",

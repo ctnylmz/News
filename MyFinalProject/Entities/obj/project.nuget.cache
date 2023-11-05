@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zxSldoXjPmZQcmjubdIRQSrz8ze8HRr+0bWenpkcdY7sG3RioimlUsyp/V+KElyte76PT595qqS9tJ7/Elqb8Q==",
+  "dgSpecHash": "39xU+LdJxcC6cq99i72yrnGKGGhU04FT7zhM8FQjnb9aS8ttygWqgd7HSL5Y2OgcBUvLBCvR+GojYL5Kl1hXBQ==",
   "success": true,
-  "projectFilePath": "E:\\Full Stack\\Backend\\MyFinalProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

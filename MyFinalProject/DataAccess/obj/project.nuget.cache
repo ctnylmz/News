@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kUqWINm1ZnNWeUN9vrJzvhHEC7VjMcYZBmA9HRNtaLk5WQZXm+HnqGFaS/WBGfRhE3XJH8uq7HdYdmISdb2Xog==",
+  "dgSpecHash": "wnesqYm2JPFFVj/4Pu1PXzyKlTfD0qJnWyi5DL12TPerrcgJeCBQq26zc7YmE5W17J6J55/u7W0fB7Nb8O4ktg==",
   "success": true,
-  "projectFilePath": "E:\\Full Stack\\Backend\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

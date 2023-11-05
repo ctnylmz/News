@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Full Stack\\Backend\\MyFinalProject\\Business\\Business.csproj": {}
+    "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Business\\Business.csproj": {}
   },
   "projects": {
-    "E:\\Full Stack\\Backend\\MyFinalProject\\Business\\Business.csproj": {
+    "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Full Stack\\Backend\\MyFinalProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "E:\\Full Stack\\Backend\\MyFinalProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
-        "outputPath": "E:\\Full Stack\\Backend\\MyFinalProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",
