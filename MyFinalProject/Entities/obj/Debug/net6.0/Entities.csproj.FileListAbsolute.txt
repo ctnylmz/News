@@ -9,3 +9,7 @@ C:\Users\Jack\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\obj\Debug\
 C:\Users\Jack\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\obj\Debug\net6.0\refint\Entities.dll
 C:\Users\Jack\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\obj\Debug\net6.0\Entities.pdb
 C:\Users\Jack\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Jack\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\Jack\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\Jack\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Jack\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
