@@ -16,6 +16,14 @@
           "DataAccess.dll": {}
         }
       },
+      "FluentValidation/9.5.4": {
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.5.4.0"
+          }
+        }
+      },
       "Microsoft.CSharp/4.5.0": {},
       "Microsoft.Data.SqlClient/2.1.4": {
         "dependencies": {
@@ -466,6 +474,7 @@
       },
       "Core/1.0.0": {
         "dependencies": {
+          "FluentValidation": "9.5.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.24"
         },
         "runtime": {
@@ -487,6 +496,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/9.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dnAz4PUtSSa+8EGWDUmEZujOa9rvzxln4BgokZZfO2Gbcj0612TMISU4vkvL60qIy5DI/sDF9Oy1iMXr7sJW3A==",
+      "path": "fluentvalidation/9.5.4",
+      "hashPath": "fluentvalidation.9.5.4.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",

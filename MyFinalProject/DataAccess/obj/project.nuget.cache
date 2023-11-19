@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QmRVWdbe2BKI9nTRBPMGxfmnjDa8WqXF+2dvn/Kvi0Mo7V2qP6fnItG2i7ajOQfYavmnRzXa1nhdKTdOW8ep6g==",
+  "dgSpecHash": "RZIB4RZnS/6HZl0C0anQNPy/6OvBJun9vRdyZw1mdARDFDQJmd9Cpu8M6GoY6+XvHnqM//xNAFP+Yywk3UCHog==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Jack\\.nuget\\packages\\fluentvalidation\\9.5.4\\fluentvalidation.9.5.4.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
