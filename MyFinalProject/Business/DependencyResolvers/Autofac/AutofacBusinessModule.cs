@@ -9,6 +9,7 @@ using Castle.DynamicProxy;
 using Core.Utilities.Interceptors;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
+using Business.CCS;
 
 namespace Business.DependencyResolvers.Autofac
 {
