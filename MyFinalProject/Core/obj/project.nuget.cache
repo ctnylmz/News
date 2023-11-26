@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jCYm8qQe5w33+AgL3OvAfTewVJBHL4yJmrc2OUNe8oxK9SRu3vBFX3+XIUrLBsn+XgjuqkbdFZUbuPgofgrMag==",
+  "dgSpecHash": "kmTm+be6fnD9/6tVT9sS/q8CfZtjy5q+3FEaaREa7Q8xLWBa6cIG7bh3FvQRge/KOGL1Fhx3gxr1urI3JPRdvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
@@ -27,11 +27,12 @@
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identity.client\\4.21.1\\microsoft.identity.client.4.21.1.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.33.0\\microsoft.identitymodel.abstractions.6.33.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
-    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.logging\\6.33.0\\microsoft.identitymodel.logging.6.33.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.8.0\\microsoft.identitymodel.protocols.6.8.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.8.0\\microsoft.identitymodel.protocols.openidconnect.6.8.0.nupkg.sha512",
-    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.33.0\\microsoft.identitymodel.tokens.6.33.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",

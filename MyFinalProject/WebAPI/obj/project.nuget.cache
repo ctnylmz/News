@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B2kkvWtGbT2EWv9hNFCITp/8BBV3okNv78NDTxa+wCJh9CNrPl2snwSwsnUjnsuzWjIXF2mIQzK2SNvBS2K4YQ==",
+  "dgSpecHash": "psTdD0NLI0izncT7Za8tXRhfljFzFFdUakVq1D3P66Nu/sTvkvA5gzhIrmxz5CsSHVQD5WympE4mAwsC1Wy6Ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jack\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -28,11 +28,12 @@
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identity.client\\4.21.1\\microsoft.identity.client.4.21.1.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.33.0\\microsoft.identitymodel.abstractions.6.33.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
-    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.logging\\6.33.0\\microsoft.identitymodel.logging.6.33.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.8.0\\microsoft.identitymodel.protocols.6.8.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.8.0\\microsoft.identitymodel.protocols.openidconnect.6.8.0.nupkg.sha512",
-    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.33.0\\microsoft.identitymodel.tokens.6.33.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Jack\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
